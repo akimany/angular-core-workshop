@@ -31,6 +31,7 @@
   },
   "private": true,
   "dependencies": {
+    "@angular-devkit/build-angular": "^0.13.0",
     "@angular/animations": "^7.2.0",
     "@angular/cdk": "^7.2.1",
     "@angular/common": "^7.2.0",
@@ -52,7 +53,6 @@
     "zone.js": "^0.8.26"
   },
   "devDependencies": {
-    "@angular-devkit/build-angular": "^0.12.1",
     "@angular/cli": "7.2.1",
     "@angular/compiler-cli": "^7.2.0",
     "@angular/language-service": "^7.2.0",
@@ -74,6 +74,7 @@
     "karma-jasmine": "~1.1.0",
     "karma-jasmine-html-reporter": "^0.2.2",
     "ngrx-store-freeze": "0.2.4",
+    "node-sass": "^4.12.0",
     "prettier": "1.15.2",
     "protractor": "~5.4.0",
     "ts-node": "~7.0.0",
